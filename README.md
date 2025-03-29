@@ -155,5 +155,4 @@ models = py.importlib.import_module('torchvision.models');
 
 ---
 
-This repository is actively maintained. Feel free to raise issues or contribute! 🚀
 
